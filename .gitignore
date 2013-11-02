@@ -1,0 +1,6 @@
+LISTING/
+OUTPUT/
+!OUTPUT/*.axf
+!OUTPUT/*.hex
+USER/*.dep
+USER/*.bak
