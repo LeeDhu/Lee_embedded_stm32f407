@@ -2,5 +2,5 @@
 =
           DHU  CST
 =
-* task for embbedded system-----Lee
+* task for embedded system-----Lee
 * Date:2013-11-2
