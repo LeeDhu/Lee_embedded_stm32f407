@@ -5,4 +5,4 @@
 * task for embedded system-----Lee
 * Date:2013-11-2
 * 1201
-test for conflict
+* test conflict on remote
