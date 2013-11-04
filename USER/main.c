@@ -247,7 +247,8 @@ void assert_failed(uint8_t* file, uint32_t line){
 
 int main(void)
 {
+
     while (1);
-}   
+}
 
 /************************ (C) COPYRIGHT STMicroelectronics *****END OF FILE****/
